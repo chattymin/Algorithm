@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/PDM10757.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDM11382.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDM10811.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +36,37 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin.PDM2292Kt">
-    <configuration name="PDM10757Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM10757Kt" />
+  <component name="RunManager" selected="Kotlin.PDM10811Kt">
+    <configuration name="PDM10810Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM10810Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM2225Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM2225Kt" />
+    <configuration name="PDM10811Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM10811Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM2292Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM2292Kt" />
+    <configuration name="PDM10813Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM10813Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDM11382Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM11382Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDM25314Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM25314Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,9 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.PDM2292Kt" />
-        <item itemvalue="Kotlin.PDM2225Kt" />
-        <item itemvalue="Kotlin.PDM10757Kt" />
+        <item itemvalue="Kotlin.PDM10811Kt" />
+        <item itemvalue="Kotlin.PDM10813Kt" />
+        <item itemvalue="Kotlin.PDM10810Kt" />
+        <item itemvalue="Kotlin.PDM25314Kt" />
+        <item itemvalue="Kotlin.PDM11382Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +93,8 @@
       <workItem from="1676618778895" duration="2000" />
       <workItem from="1676619035525" duration="475000" />
       <workItem from="1676619602951" duration="6194000" />
-      <workItem from="1676954611841" duration="85000" />
+      <workItem from="1676954611841" duration="3036000" />
+      <workItem from="1677079153630" duration="307000" />
     </task>
     <servers />
   </component>
