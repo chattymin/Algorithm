@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/PDM10811.kt" afterDir="false" />
+    <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="간단한 문제 완료">
+      <change afterPath="$PROJECT_DIR$/PDM2866.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -36,14 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin.PDM10811Kt">
-    <configuration name="PDM10810Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM10810Kt" />
-      <module name="Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PDM2866Kt">
     <configuration name="PDM10811Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDM10811Kt" />
       <module name="Kotlin" />
@@ -58,15 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM11382Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM11382Kt" />
+    <configuration name="PDM2743Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM2743Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM25314Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM25314Kt" />
+    <configuration name="PDM2866Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM2866Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDM9086Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM9086Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PDM2866Kt" />
+        <item itemvalue="Kotlin.PDM9086Kt" />
+        <item itemvalue="Kotlin.PDM2743Kt" />
         <item itemvalue="Kotlin.PDM10811Kt" />
         <item itemvalue="Kotlin.PDM10813Kt" />
-        <item itemvalue="Kotlin.PDM10810Kt" />
-        <item itemvalue="Kotlin.PDM25314Kt" />
-        <item itemvalue="Kotlin.PDM11382Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -94,8 +95,19 @@
       <workItem from="1676619035525" duration="475000" />
       <workItem from="1676619602951" duration="6194000" />
       <workItem from="1676954611841" duration="3036000" />
-      <workItem from="1677079153630" duration="307000" />
+      <workItem from="1677079153630" duration="4350000" />
+      <workItem from="1677083698346" duration="617000" />
+      <workItem from="1677133418160" duration="659000" />
+      <workItem from="1677201201289" duration="6986000" />
     </task>
+    <task id="LOCAL-00001" summary="간단한 문제 완료">
+      <created>1677083281411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677083281411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +123,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="간단한 문제 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="간단한 문제 완료" />
   </component>
 </project>
