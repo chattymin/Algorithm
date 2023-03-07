@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="간단한 문제 완료">
-      <change afterPath="$PROJECT_DIR$/PDM2866.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDM2866.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PDM2866.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +107,10 @@
       <workItem from="1677083698346" duration="617000" />
       <workItem from="1677133418160" duration="659000" />
       <workItem from="1677201201289" duration="6986000" />
-      <workItem from="1677992960796" duration="11869000" />
+      <workItem from="1677992960796" duration="12203000" />
+      <workItem from="1678029972491" duration="5000" />
+      <workItem from="1678174138715" duration="4000" />
+      <workItem from="1678174623965" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
