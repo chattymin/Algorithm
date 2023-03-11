@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="간단한 문제 완료">
+      <change afterPath="$PROJECT_DIR$/PDM12865.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programmers/src/모스부호(1).kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDM2866.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PDM2866.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +112,8 @@
       <workItem from="1678029972491" duration="5000" />
       <workItem from="1678174138715" duration="4000" />
       <workItem from="1678174623965" duration="29000" />
+      <workItem from="1678323567732" duration="1967000" />
+      <workItem from="1678515304906" duration="854000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
