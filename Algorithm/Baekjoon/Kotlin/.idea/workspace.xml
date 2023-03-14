@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="간단한 문제 완료">
-      <change afterPath="$PROJECT_DIR$/PDM12865.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Programmers/src/모스부호(1).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDM1461.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/PDM2866Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/PDM2866Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -46,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin.PDM2866Kt">
+  <component name="RunManager" selected="Kotlin.PDM1461Kt">
     <configuration name="PDM10811Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDM10811Kt" />
       <module name="Kotlin" />
@@ -54,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM10813Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM10813Kt" />
+    <configuration name="PDM1461Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM1461Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PDM1461Kt" />
         <item itemvalue="Kotlin.PDM2866Kt" />
         <item itemvalue="Kotlin.PDM9086Kt" />
         <item itemvalue="Kotlin.PDM2743Kt" />
         <item itemvalue="Kotlin.PDM10811Kt" />
-        <item itemvalue="Kotlin.PDM10813Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +116,9 @@
       <workItem from="1678174623965" duration="29000" />
       <workItem from="1678323567732" duration="1967000" />
       <workItem from="1678515304906" duration="854000" />
+      <workItem from="1678695661068" duration="1998000" />
+      <workItem from="1678698073385" duration="7989000" />
+      <workItem from="1678772107229" duration="2940000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
