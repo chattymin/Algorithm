@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="간단한 문제 완료">
-      <change afterPath="$PROJECT_DIR$/PDM1461.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="간단한 문제 완료" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +112,8 @@
       <workItem from="1678515304906" duration="854000" />
       <workItem from="1678695661068" duration="1998000" />
       <workItem from="1678698073385" duration="7989000" />
+      <workItem from="1678772107229" duration="2940000" />
+      <workItem from="1678842943397" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
