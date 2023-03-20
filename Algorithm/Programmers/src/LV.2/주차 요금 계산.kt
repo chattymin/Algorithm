@@ -1,5 +1,3 @@
-import javax.swing.KeyStroke
-
 fun main() {
     println(solution(intArrayOf(180, 5000, 10, 600), arrayOf("05:34 5961 IN", "06:00 0000 IN", "06:34 0000 OUT", "07:59 5961 OUT", "07:59 0148 IN", "18:59 0000 IN", "19:09 0148 OUT", "22:59 5961 IN", "23:00 5961 OUT")).toList().toString())
 }
@@ -32,7 +30,7 @@ fun solution(fees: IntArray, records: Array<String>): IntArray {
     for (i in 0 until carRecord.size){
         //println("시간 ${carRecord[i].hour}:${carRecord[i].minute}     차량번호 ${carRecord[i].carNum}     내역 ${carRecord[i].state}")
         if (carRecord[i].state == "IN"){
-            var temp = carRecord.slice(i until carRecord.size).find { it.state == "OUT" && it.carNum == carRecord[i].carNum }
+            val temp = carRecord.slice(i until carRecord.size).find { it.state == "OUT" && it.carNum == carRecord[i].carNum }
             val time = (((temp?.hour?:23) - (carRecord[i].hour)) * 60) + ((temp?.minute?:59) - (carRecord[i].minute))
             calcRecord = calcRecord.plus(Calc(carRecord[i].carNum, time))
         }
@@ -43,21 +41,26 @@ fun solution(fees: IntArray, records: Array<String>): IntArray {
 
     // 요금 계산
     for (i in calcRecord){
-        var temp = calcRecord.filter { it.carNum == i.carNum }.sumOf { it.time }
+        // 중복확인
+        if (answer.keys.contains(i.carNum)) continue
+
+        // 시간 합산
+        val temp = calcRecord.filter { it.carNum == i.carNum }.sumOf { it.time }
 
         var usingTime = (temp - defaultTime) / unitTime.toDouble()
 
+        // 기본시간보다 적게 사용했을경우 기본요금 부과
         if (usingTime <= 0){
             answer.put(i.carNum, defaultFee)
             continue
         }
 
+        // 반올림 -> 내장함수 사용하는 방법으로 변형해보자.
         if (usingTime%1 >0) usingTime = usingTime/10 * 10 + 1
 
         var result = defaultFee + usingTime.toInt() * unitFee
 
         answer.put(i.carNum, result)
-
     }
 
     return answer.values.toIntArray()
