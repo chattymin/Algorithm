@@ -11,44 +11,33 @@ fun main(args: Array<String>) = with(BufferedReader(InputStreamReader(System.`in
     val library: IntArray = readLine().split(" ").map { it.toInt() }.toIntArray()
     library.sort()
 
-    println(library.toList().toString())
-
+    val minus = library.filter { it < 0 }
+    val plus = library.filter { it > 0 }.reversed()
     var result = 0
-    val remain = N % M
 
-    var i = 0
-
-    while (i + M <= N){
-        var temp = library.slice(i until i+M)
-
-        println(temp.toList().toString())
-
-        if (temp.filter { it.sign == 1 }.count() != 0 && temp.filter { it.sign == -1 }.count() != 0){// 양수 음수 둘다 존재
-            // 음수의 갯수만큼 추가 슬라이스 필요. temp.filter { it.sign == -1 }.count() 이 값만큼 추가 슬라이스하고, i를 늘림. 이렇게되면..... 또 for 에런데
-            i += temp.filter { it.sign == -1 }.count()
-
-            temp = temp.plus(library.get(i + M - 1))
-            println(library.get(i + M -1))
-            result += temp.min().absoluteValue * 2
-            println("min = ${temp.min().absoluteValue}")
-            println("result = $result")
+    if (minus.size > 0) {
+        if (minus.size <= M)
+            result += minus.first().absoluteValue * 2
+        else {
+            for (i in 0 until minus.size) {
+                if (i % M == 0) result += minus[i].absoluteValue * 2
+            }
         }
-
-        temp = temp.map {it.absoluteValue }
-
-        result += temp.max() * 2
-        println("max = ${temp.max().absoluteValue}")
-        println("result = $result")
-        i += M
     }
 
-    // 수정 필요
-    if (i != N) result += library.last().absoluteValue
-    else result -= library.last().absoluteValue
+    if (plus.size > 0) {
+        if (plus.size <= M)
+            result += plus.first() * 2
+        else {
+            for (i in 0 until plus.size) {
+                if (i % M == 0) result += plus[i] * 2
+            }
+        }
+    }
 
+    result -= library.map { it.absoluteValue }.max()
 
     bw.write("${result}")
-
     bw.flush()
     bw.close()
 }
