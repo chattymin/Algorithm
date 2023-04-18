@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 1461, 2212, 1576 Clear">
-      <change afterPath="$PROJECT_DIR$/../../Programmers/src/LV.0/저주의 숫자 3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Programmers/src/LV.0/평행.kt" afterDir="false" />
+    <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
+      <change afterPath="$PROJECT_DIR$/PDM14502.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programmers/src/LV.0/특이한 정렬.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -47,14 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin.PDM2212Kt">
-    <configuration name="PDM1461Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM1461Kt" />
-      <module name="Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TestKt">
     <configuration name="PDM2212Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDM2212Kt" />
       <module name="Kotlin" />
@@ -62,8 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM2866Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM2866Kt" />
+    <configuration name="PDM2800Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM2800Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDM5052Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM5052Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM9086Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM9086Kt" />
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.PDM5052Kt" />
+        <item itemvalue="Kotlin.PDM2800Kt" />
         <item itemvalue="Kotlin.PDM2212Kt" />
         <item itemvalue="Kotlin.PDM7576Kt" />
-        <item itemvalue="Kotlin.PDM1461Kt" />
-        <item itemvalue="Kotlin.PDM2866Kt" />
-        <item itemvalue="Kotlin.PDM9086Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +129,14 @@
       <workItem from="1679666195559" duration="15000" />
       <workItem from="1679666476157" duration="9000" />
       <workItem from="1679839436065" duration="3270000" />
+      <workItem from="1680328986332" duration="4478000" />
+      <workItem from="1680407163209" duration="6057000" />
+      <workItem from="1681039275692" duration="1011000" />
+      <workItem from="1681094707971" duration="21000" />
+      <workItem from="1681551729502" duration="1676000" />
+      <workItem from="1681737616605" duration="1282000" />
+      <workItem from="1681739116815" duration="3595000" />
+      <workItem from="1681813295917" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
@@ -142,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679665924506</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="백준 2800 Clear">
+      <created>1680413308159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680413308159</updated>
+    </task>
+    <task id="LOCAL-00004" summary="백준 5052 Clear">
+      <created>1681094721985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681094721985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +186,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="간단한 문제 완료" />
     <MESSAGE value="백준 1461, 2212, 1576 Clear" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 1461, 2212, 1576 Clear" />
+    <MESSAGE value="백준 2800 Clear" />
+    <MESSAGE value="백준 5052 Clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 5052 Clear" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -170,6 +196,14 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="6" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
