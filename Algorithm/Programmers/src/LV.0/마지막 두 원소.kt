@@ -5,3 +5,5 @@ fun main() {
 }
 
 fun solution6(num_list: IntArray): IntArray = num_list.plus(if (num_list.last() > num_list[num_list.size - 2]) num_list.last() - num_list[num_list.size - 2] else num_list.last() * 2)
+
+// fun solution(num_list: IntArray): IntArray = num_list.plus(if (num_list.last() > num_list[num_list.size - 2]) num_list.last() - num_list[num_list.size - 2] else num_list.last() * 2)
