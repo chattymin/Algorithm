@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
-      <change afterPath="$PROJECT_DIR$/../../hw3/src/3-1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hw3/src/3-2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hw3/src/3-3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hw3/src/3-4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/TestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/TestKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Programmers/out/production/Programmers/LV/0/유한소수_판별하기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programmers/out/production/Programmers/LV/0/유한소수_판별하기Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Programmers/out/production/Programmers/META-INF/Programmers.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programmers/out/production/Programmers/META-INF/Programmers.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Programmers/src/LV.0/특이한 정렬.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programmers/src/LV.0/특이한 정렬.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programmers/src/LV.0/문자열의 뒤의 n글자.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programmers/src/LV.0/배열 만들기 5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programmers/src/LV.0/부분 문자열 이어 붙여 문자열 만들기.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programmers/out/production/Programmers/LV/0/문자열_여러_번_뒤집기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programmers/out/production/Programmers/LV/0/문자열_여러_번_뒤집기Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programmers/out/production/Programmers/META-INF/Programmers.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +141,7 @@
       <workItem from="1684584886455" duration="9000" />
       <workItem from="1684584921440" duration="1759000" />
       <workItem from="1686987475259" duration="5000" />
+      <workItem from="1688368922286" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
