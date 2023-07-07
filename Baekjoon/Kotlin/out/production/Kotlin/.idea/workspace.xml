@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/src/main/res/layout/linear_layout_tmap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDM2591.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeViewFatory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/TMapActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/res/layout/activity_tmap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../withToday/app/com.skt.Tmap_1.75.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../withToday/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Retrofit/IRetrofit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Retrofit/RetrofitClient.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Retrofit/RetrofitManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Constants.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Extensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -45,9 +59,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin.TestKt">
+  <component name="RunManager" selected="Kotlin.PDM2591Kt">
     <configuration name="PDM2212Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDM2212Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDM2591Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM2591Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,13 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM7576Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM7576Kt" />
-      <module name="Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="Kotlin" />
@@ -83,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PDM2591Kt" />
         <item itemvalue="Kotlin.TestKt" />
         <item itemvalue="Kotlin.PDM5052Kt" />
         <item itemvalue="Kotlin.PDM2800Kt" />
         <item itemvalue="Kotlin.PDM2212Kt" />
-        <item itemvalue="Kotlin.PDM7576Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +148,12 @@
       <workItem from="1681739116815" duration="3595000" />
       <workItem from="1681813295917" duration="598000" />
       <workItem from="1681890829735" duration="85000" />
-      <workItem from="1681890919253" duration="370000" />
+      <workItem from="1681890919253" duration="728000" />
+      <workItem from="1684584886455" duration="9000" />
+      <workItem from="1684584921440" duration="1759000" />
+      <workItem from="1686987475259" duration="5000" />
+      <workItem from="1688368922286" duration="2000" />
+      <workItem from="1688703610410" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
