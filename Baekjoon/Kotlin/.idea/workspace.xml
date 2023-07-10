@@ -4,6 +4,7 @@
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/src/main/res/layout/linear_layout_tmap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDM2467.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeView.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeViewFatory.kt" afterDir="false" />
@@ -16,6 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Retrofit/RetrofitManager.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Constants.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Extensions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin.PDM27866Kt">
+  <component name="RunManager" selected="Kotlin.PDM2467Kt">
+    <configuration name="PDM2467Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PDM2467Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PDM2591Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDM2591Kt" />
       <module name="Kotlin" />
@@ -79,13 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM5052Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM5052Kt" />
-      <module name="Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestKt" />
       <module name="Kotlin" />
@@ -95,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PDM2467Kt" />
         <item itemvalue="Kotlin.PDM27866Kt" />
         <item itemvalue="Kotlin.PDM2852Kt" />
         <item itemvalue="Kotlin.PDM2591Kt" />
         <item itemvalue="Kotlin.TestKt" />
-        <item itemvalue="Kotlin.PDM5052Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +157,7 @@
       <workItem from="1688715159953" duration="2251000" />
       <workItem from="1688719658675" duration="408000" />
       <workItem from="1688965077345" duration="55000" />
+      <workItem from="1688976526106" duration="4800000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
