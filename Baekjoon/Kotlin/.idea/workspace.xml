@@ -4,7 +4,6 @@
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/src/main/res/layout/linear_layout_tmap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDM2467.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeView.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeViewFatory.kt" afterDir="false" />
@@ -17,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Retrofit/RetrofitManager.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Constants.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Extensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
