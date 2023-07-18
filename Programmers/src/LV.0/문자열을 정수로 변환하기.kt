@@ -1,4 +1,6 @@
-package LV.`0`fun main() {
+package LV.`0`
+
+fun main() {
     println(solution17("123456789"))
 }
 
