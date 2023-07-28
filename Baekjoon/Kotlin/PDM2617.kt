@@ -38,52 +38,24 @@ fun main(args: Array<String>) = with(BufferedReader(InputStreamReader(System.`in
     bw.close()
 }
 
-fun dfsLowToHigh(graph: Array<IntArray>, visited: BooleanArray, positon: Int){
-    visited[positon] = true
+fun dfsLowToHigh(graph: Array<IntArray>, visited: BooleanArray, position: Int){
+    visited[position] = true
 
-    for (i in 0 until graph[positon].size){
-        if (!visited[i] && graph[positon][i] == 1){
+    for (i in 0 until graph[position].size){
+        if (!visited[i] && graph[position][i] == 1){
             cntLTH++
             dfsLowToHigh(graph, visited, i)
         }
     }
-
 }
 
-fun dfsHighToLow(graph: Array<IntArray>, visited: BooleanArray, positon: Int){
-    visited[positon] = true
-    for (i in 0 until graph[positon].size){
-        if (!visited[i] && graph[positon][i] == 2){
+fun dfsHighToLow(graph: Array<IntArray>, visited: BooleanArray, position: Int){
+    visited[position] = true
+
+    for (i in 0 until graph[position].size){
+        if (!visited[i] && graph[position][i] == 2){
             cntHTL++
             dfsHighToLow(graph, visited, i)
         }
     }
 }
-
-
-
-/*
-
-1 < 2 < 4
-3 < 4
-1 < 5
-=> 자신보다 크거나, 작은게 전체 갯수의 절반 이상이면 cnt++
-
-
-1,2 => true
-2,4 => true
-3,4 -=> true
-
-
-arr을 만듬 (m+1 크기)
-
-
-밑이면 1
-위이면 2
-ex) 2,3
-arr[2][3] = 1
-arr[3][2] = 2
-
-DFS로 이동해서 정방향, 역방향 계산
-
- */

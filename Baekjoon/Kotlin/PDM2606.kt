@@ -11,9 +11,9 @@ fun main(args: Array<String>) = with(BufferedReader(InputStreamReader(System.`in
     var graph = Array(computerCount+1, {BooleanArray(computerCount+1,{false})})
 
     repeat(times){
-        val (fir, sec) = readLine().split(" ")
-        graph[fir.toInt()][sec.toInt()] = true
-        graph[sec.toInt()][fir.toInt()] = true
+        val (fir, sec) = readLine().split(" ").map{it.toInt()}
+        graph[fir][sec] = true
+        graph[sec][fir] = true
     }
 
     var starPoint : Queue<Int> = LinkedList()
