@@ -37,5 +37,3 @@ fun dfs(graph: Array<LinkedList<Int>>, visited: BooleanArray, parent: IntArray,N
         }
     }
 }
-
-// 전체 정보 기록. 그러고 DFS Or BFS해서 parent찾기
