@@ -16,9 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Retrofit/RetrofitManager.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Constants.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Extensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDM2606.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PDM2606.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin.PDM2617Kt">
+  <component name="RunManager" selected="Kotlin._2252Kt">
     <configuration name="PDM2467Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PDM2467Kt" />
       <module name="Kotlin" />
@@ -89,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PDM2852Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM2852Kt" />
+    <configuration name="_2252Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2252Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2252Kt" />
         <item itemvalue="Kotlin.PDM2617Kt" />
         <item itemvalue="Kotlin.PDM2606Kt" />
         <item itemvalue="Kotlin.PDM2467Kt" />
         <item itemvalue="Kotlin.PDM27866Kt" />
-        <item itemvalue="Kotlin.PDM2852Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +164,10 @@
       <workItem from="1690437950007" duration="702000" />
       <workItem from="1690439657718" duration="3000" />
       <workItem from="1690507790808" duration="45000" />
+      <workItem from="1690508433484" duration="284000" />
+      <workItem from="1694348900231" duration="2814000" />
+      <workItem from="1694362803019" duration="45000" />
+      <workItem from="1694493119556" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
