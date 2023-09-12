@@ -29,5 +29,7 @@ fun main() {
 
     fun solution(n: Int): Int = threeToTen(tenToThree(n).reversed())
 
-    println(solution(45))
+    fun solution2(n: Int): Int = n.toString(3).reversed().toInt(3)
+
+    println(solution2(45))
 }
