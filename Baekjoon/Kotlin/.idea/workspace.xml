@@ -17,9 +17,6 @@
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Constants.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Extensions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDM2606.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PDM2606.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDM2617.kt" beforeDir="false" afterPath="$PROJECT_DIR$/PDM2617.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,6 +166,8 @@
       <workItem from="1690439657718" duration="3000" />
       <workItem from="1690507790808" duration="45000" />
       <workItem from="1690508433484" duration="284000" />
+      <workItem from="1694348900231" duration="2814000" />
+      <workItem from="1694362803019" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
