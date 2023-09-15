@@ -17,7 +17,7 @@ fun main() = with(BufferedReader(InputStreamReader(System.`in`))){
     val (M, N) = readLine().split(" ").map { it.toInt() } // M과 N 입력
 
     val input = mutableListOf<List<Char>>()
-    var result = 99999999
+    var result = Int.MAX_VALUE
 
     repeat(M){ // M번 반복
         val line = readLine().map { it.toChar() }
