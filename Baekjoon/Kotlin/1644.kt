@@ -20,9 +20,7 @@ fun main() = with(BufferedReader(InputStreamReader(System.`in`))){
 }
 
 fun isPrimeNumber(targetNumber: Int): Boolean {
-    var end = sqrt(targetNumber.toDouble())
-
-    for (i in 2 .. end.toInt()) {
+    for (i in 2 .. sqrt(targetNumber.toDouble()).toInt()) {
         if (targetNumber % i == 0) {
             return false
         }
