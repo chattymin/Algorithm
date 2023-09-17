@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
+      <change afterPath="$PROJECT_DIR$/20529.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/src/main/res/layout/linear_layout_tmap.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
@@ -28,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -60,14 +61,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Kotlin._1874Kt">
-    <configuration name="PDM2617Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PDM2617Kt" />
-      <module name="Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._20529Kt">
     <configuration name="_1018Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1018Kt" />
       <module name="Kotlin" />
@@ -89,6 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_20529Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_20529Kt" />
+      <module name="Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_2252Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_2252Kt" />
       <module name="Kotlin" />
@@ -98,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._20529Kt" />
         <item itemvalue="Kotlin._1874Kt" />
         <item itemvalue="Kotlin._1764Kt" />
         <item itemvalue="Kotlin._1018Kt" />
         <item itemvalue="Kotlin._2252Kt" />
-        <item itemvalue="Kotlin.PDM2617Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,8 @@
       <workItem from="1694493119556" duration="4579000" />
       <workItem from="1694743258669" duration="8109000" />
       <workItem from="1694861559637" duration="3422000" />
-      <workItem from="1694916348150" duration="2342000" />
+      <workItem from="1694916348150" duration="6832000" />
+      <workItem from="1694934295510" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
