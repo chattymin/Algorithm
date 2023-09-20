@@ -26,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -63,9 +63,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1644Kt">
-    <configuration name="_1018Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1018Kt" />
+  <component name="RunManager" selected="Kotlin._1075Kt">
+    <configuration name="_1075Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1075Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1075Kt" />
         <item itemvalue="Kotlin._1644Kt" />
         <item itemvalue="Kotlin._20529Kt" />
         <item itemvalue="Kotlin._1874Kt" />
         <item itemvalue="Kotlin._1764Kt" />
-        <item itemvalue="Kotlin._1018Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +182,8 @@
       <workItem from="1694963028087" duration="634000" />
       <workItem from="1694976206614" duration="550000" />
       <workItem from="1695100389257" duration="714000" />
+      <workItem from="1695203379130" duration="175000" />
+      <workItem from="1695203567242" duration="2524000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>

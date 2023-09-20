@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
-      <change afterPath="$PROJECT_DIR$/1644.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../JavaWithToday/app/src/main/res/layout/linear_layout_tmap.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
@@ -17,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Retrofit/RetrofitManager.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Constants.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../withToday/app/src/main/java/com/dongminpark/withtoday/Utils/Extensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -64,9 +62,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1644Kt">
-    <configuration name="_1018Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1018Kt" />
+  <component name="RunManager" selected="Kotlin._1075Kt">
+    <configuration name="_1075Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1075Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1075Kt" />
         <item itemvalue="Kotlin._1644Kt" />
         <item itemvalue="Kotlin._20529Kt" />
         <item itemvalue="Kotlin._1874Kt" />
         <item itemvalue="Kotlin._1764Kt" />
-        <item itemvalue="Kotlin._1018Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +177,11 @@
       <workItem from="1694861559637" duration="3422000" />
       <workItem from="1694916348150" duration="6832000" />
       <workItem from="1694934295510" duration="6683000" />
-      <workItem from="1694952786145" duration="799000" />
+      <workItem from="1694952786145" duration="4198000" />
+      <workItem from="1694963028087" duration="634000" />
+      <workItem from="1694976206614" duration="550000" />
+      <workItem from="1695100389257" duration="714000" />
+      <workItem from="1695203379130" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
