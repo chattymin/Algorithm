@@ -1,11 +1,11 @@
 package LV.`1`
 
 fun main() {
+    /*
     fun isSmall(ch: Char) = ch in 'a'..'z'
 
     fun isBig(ch: Char) = ch in 'A'..'Z'
 
-    /*
     fun solution(s: String, n: Int): String {
         var answer = ""
 
@@ -27,7 +27,6 @@ fun main() {
 
         return answer
     }
-
      */
 
     fun solution(s: String, n: Int): String = s.map {
@@ -37,9 +36,6 @@ fun main() {
             else -> ' '
         }
     }.joinToString("")
-
-
-
 
     println(solution("AB", 1))
 }
