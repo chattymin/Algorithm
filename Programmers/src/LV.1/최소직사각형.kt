@@ -18,7 +18,7 @@ fun main() {
                 maxLocal = it.last()
                 minLocal = it.first()
             }
-            
+
             maxNum = max(maxNum, maxLocal)
             minNum = max(minNum, minLocal)
         }
