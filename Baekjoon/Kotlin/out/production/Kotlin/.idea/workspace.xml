@@ -8,6 +8,8 @@
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/TMapActivity.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/res/layout/activity_tmap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +56,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1654Kt">
-    <configuration name="_1436Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1436Kt" />
+  <component name="RunManager" selected="Kotlin._1253Kt">
+    <configuration name="_1253Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1253Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1526Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1526Kt" />
+    <configuration name="_1436Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1436Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1253Kt" />
         <item itemvalue="Kotlin._1654Kt" />
         <item itemvalue="Kotlin._1920Kt" />
         <item itemvalue="Kotlin._18111번Kt" />
         <item itemvalue="Kotlin._1436Kt" />
-        <item itemvalue="Kotlin._1526Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +181,8 @@
       <workItem from="1695225681134" duration="2916000" />
       <workItem from="1695266123914" duration="1585000" />
       <workItem from="1695808936574" duration="3810000" />
-      <workItem from="1695951539910" duration="309000" />
+      <workItem from="1695951539910" duration="2925000" />
+      <workItem from="1695981090379" duration="352000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
