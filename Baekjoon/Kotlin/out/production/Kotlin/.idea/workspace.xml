@@ -3,13 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="fceb230a-553d-425f-8f45-97e0b8df124a" name="변경" comment="백준 5052 Clear">
       <change afterPath="$PROJECT_DIR$/../../../.idea/0.git.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2457.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2206.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/libs/com.skt.Tmap_1.75.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeView.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/NativeViewFatory.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/kotlin/com/example/flutter_example/TMapActivity.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../flutter_example/android/app/src/main/res/layout/activity_tmap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._2457Kt">
+  <component name="RunManager" selected="Kotlin._2206Kt">
     <configuration name="_1253Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1253Kt" />
       <module name="Kotlin" />
@@ -71,15 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_18111번Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_18111번Kt" />
+    <configuration name="_1920Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1920Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1920Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1920Kt" />
+    <configuration name="_2206Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2206Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2206Kt" />
         <item itemvalue="Kotlin._2457Kt" />
         <item itemvalue="Kotlin._1253Kt" />
         <item itemvalue="Kotlin._1654Kt" />
         <item itemvalue="Kotlin._1920Kt" />
-        <item itemvalue="Kotlin._18111번Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +187,9 @@
       <workItem from="1695981090379" duration="352000" />
       <workItem from="1696563420284" duration="7963000" />
       <workItem from="1696574848672" duration="223000" />
-      <workItem from="1696642769501" duration="331000" />
+      <workItem from="1696642769501" duration="2907000" />
+      <workItem from="1698729770386" duration="5819000" />
+      <workItem from="1698986146663" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="간단한 문제 완료">
       <created>1677083281411</created>
