@@ -8,7 +8,6 @@ fun main() {
             var temp = array.slice(it[0] - 1 until it[1])
 
             temp = temp.sorted()
-            println(temp)
 
             answer += temp[it[2] - 1]
         }
