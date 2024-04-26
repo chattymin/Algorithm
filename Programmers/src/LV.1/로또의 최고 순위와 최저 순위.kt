@@ -14,7 +14,7 @@ fun main() {
             0 to 6
         )
 
-        var zero = lottos.count { it == 0 }
+        val zero = lottos.count { it == 0 }
         var now = 0
 
         lottos.forEach{ num ->
